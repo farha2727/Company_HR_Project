@@ -18,9 +18,9 @@ Project Details – The final web page will include the following elements:
 •	Cards
 
  Contributors and @Copyrights – 
-     Olga Korolkova (https://github.com/suslex)
+   
      Farhana Hai (https://github.com/farha2727)
-     Ramya Subramanian (https://github.com/anandnarayanaswamy)
+
 
 
 
